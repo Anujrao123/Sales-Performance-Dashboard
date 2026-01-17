@@ -36,4 +36,4 @@ data-driven decisions.
 Total Sales = SUM(Sales[Sales Amount])
 Total Profit = SUM(Sales[Profit])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
-ON UPWORK SITE https://www.upwork.com/freelancers/~01d6aaa3bbdfd8f85c?p=2012458365191213056
+
